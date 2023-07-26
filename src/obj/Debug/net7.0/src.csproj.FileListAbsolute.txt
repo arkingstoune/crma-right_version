@@ -1,0 +1,15 @@
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\src.csproj.AssemblyReference.cache
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\src.AssemblyInfoInputs.cache
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\src.AssemblyInfo.cs
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\src.csproj.CoreCompileInputs.cache
+C:\Users\arkin\Desktop\crma-right_version\src\bin\Debug\net7.0\src.exe
+C:\Users\arkin\Desktop\crma-right_version\src\bin\Debug\net7.0\src.deps.json
+C:\Users\arkin\Desktop\crma-right_version\src\bin\Debug\net7.0\src.runtimeconfig.json
+C:\Users\arkin\Desktop\crma-right_version\src\bin\Debug\net7.0\src.dll
+C:\Users\arkin\Desktop\crma-right_version\src\bin\Debug\net7.0\src.pdb
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\src.dll
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\refint\src.dll
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\src.pdb
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\src.genruntimeconfig.cache
+C:\Users\arkin\Desktop\crma-right_version\src\obj\Debug\net7.0\ref\src.dll
