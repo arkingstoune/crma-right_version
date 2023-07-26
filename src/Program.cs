@@ -36,7 +36,7 @@ void CreateClient()
         passportNumber,
         gender
     );
-    newClient.Array = MakeOrder();
+    // newClient.Array = MakeOrder();
     string[] MakeOrder()
      {
             Random  rnd = new Random();
@@ -56,5 +56,9 @@ void CreateClient()
             }
             else  Console.WriteLine("sorry the system is broke");
             return Array;
-  }
+    }
+    ClientInfo oleg = new ClientInfo(newClient);
+    foreach(string summer in oleg.ArrayOFUsers){
+        Console.WriteLine(summer);
+    }
 }
