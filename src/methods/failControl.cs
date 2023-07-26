@@ -1,5 +1,7 @@
 using Crm.Entities;
 namespace Crm.methods;
+using System;
+
 public class errorCode
 {
         public static bool ValidateClient(
